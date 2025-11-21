@@ -1,0 +1,17 @@
+{
+  "appTitle": "Fairy Audio",
+  "searchTitle": "Hledat",
+  "searchPlaceholderMusic": "Hledat hudbu...",
+  "searchPlaceholderStories": "Hledat pohádky...",
+  "tabHome": "Domů",
+  "tabLibrary": "Knihovna",
+  "tabSearch": "Hledat",
+  "tabSettings": "Nastavení",
+  "toggleMusic": "Hudba",
+  "toggleStories": "Pohádky",
+  "parentModeTitle": "Rodičovský režim",
+  "parentModeComingSoon": "Brzy bude k dispozici",
+  "libraryFavorites": "Moje oblíbené",
+  "connectToSpotify": "Připojit k Spotify",
+  "welcomeMessage": "Vítejte, pojďme poslouchat!"
+}

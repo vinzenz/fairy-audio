@@ -1,0 +1,36 @@
+name: fairy_audio
+description: A kid-friendly Spotify audio player.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Spotify Integration
+  spotify_sdk: ^3.0.0 # Check for latest compatible
+  http: ^1.1.0
+
+  # State Management
+  provider: ^6.0.5
+
+  # Configuration
+  flutter_dotenv: ^5.1.0
+
+  # Utils
+  intl: ^0.18.1
+  logger: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true # For l10n
