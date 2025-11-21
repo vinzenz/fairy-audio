@@ -1,0 +1,17 @@
+{
+  "appTitle": "Fairy Audio",
+  "searchTitle": "Search",
+  "searchPlaceholderMusic": "Search for music...",
+  "searchPlaceholderStories": "Search for fairy tales...",
+  "tabHome": "Home",
+  "tabLibrary": "Library",
+  "tabSearch": "Search",
+  "tabSettings": "Settings",
+  "toggleMusic": "Music",
+  "toggleStories": "Stories",
+  "parentModeTitle": "Parent Mode",
+  "parentModeComingSoon": "Coming Soon",
+  "libraryFavorites": "My Favorites",
+  "connectToSpotify": "Connect to Spotify",
+  "welcomeMessage": "Welcome, let's listen!"
+}
